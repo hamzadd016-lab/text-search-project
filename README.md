@@ -1,2 +1,2 @@
-# text-search-project
-a front-end Text Search project with highlighted results
+This is a simple front-end Text Search project using HTML, CSS and JavaScript.
+Open index.html in the browser to run.
